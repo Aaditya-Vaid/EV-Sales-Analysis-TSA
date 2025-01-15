@@ -1,0 +1,661 @@
+Year,State,Broad_category,Fuel_category,Registered_vehicle
+2013,Karnataka,2 Wheeler,CNG,0
+2013,Karnataka,2 Wheeler,Diesel & Others,505
+2013,Karnataka,2 Wheeler,Electric Vehicle,222
+2013,Karnataka,2 Wheeler,Others,74
+2013,Karnataka,2 Wheeler,Petrol & Others,1077166
+2014,Karnataka,2 Wheeler,CNG,0
+2014,Karnataka,2 Wheeler,Diesel & Others,387
+2014,Karnataka,2 Wheeler,Electric Vehicle,194
+2014,Karnataka,2 Wheeler,Others,120
+2014,Karnataka,2 Wheeler,Petrol & Others,1195476
+2015,Karnataka,2 Wheeler,CNG,0
+2015,Karnataka,2 Wheeler,Diesel & Others,279
+2015,Karnataka,2 Wheeler,Electric Vehicle,88
+2015,Karnataka,2 Wheeler,Others,181
+2015,Karnataka,2 Wheeler,Petrol & Others,1222985
+2016,Karnataka,2 Wheeler,CNG,0
+2016,Karnataka,2 Wheeler,Diesel & Others,278
+2016,Karnataka,2 Wheeler,Electric Vehicle,59
+2016,Karnataka,2 Wheeler,Others,142
+2016,Karnataka,2 Wheeler,Petrol & Others,1239377
+2017,Karnataka,2 Wheeler,CNG,0
+2017,Karnataka,2 Wheeler,Diesel & Others,283
+2017,Karnataka,2 Wheeler,Electric Vehicle,100
+2017,Karnataka,2 Wheeler,Others,172
+2017,Karnataka,2 Wheeler,Petrol & Others,1213578
+2018,Karnataka,2 Wheeler,CNG,0
+2018,Karnataka,2 Wheeler,Diesel & Others,100
+2018,Karnataka,2 Wheeler,Electric Vehicle,3022
+2018,Karnataka,2 Wheeler,Others,74
+2018,Karnataka,2 Wheeler,Petrol & Others,1285410
+2019,Karnataka,2 Wheeler,CNG,0
+2019,Karnataka,2 Wheeler,Diesel & Others,4
+2019,Karnataka,2 Wheeler,Electric Vehicle,6392
+2019,Karnataka,2 Wheeler,Others,3
+2019,Karnataka,2 Wheeler,Petrol & Others,1189288
+2020,Karnataka,2 Wheeler,CNG,0
+2020,Karnataka,2 Wheeler,Diesel & Others,1
+2020,Karnataka,2 Wheeler,Electric Vehicle,11781
+2020,Karnataka,2 Wheeler,Others,15
+2020,Karnataka,2 Wheeler,Petrol & Others,846143
+2021,Karnataka,2 Wheeler,CNG,0
+2021,Karnataka,2 Wheeler,Diesel & Others,0
+2021,Karnataka,2 Wheeler,Electric Vehicle,41288
+2021,Karnataka,2 Wheeler,Others,0
+2021,Karnataka,2 Wheeler,Petrol & Others,766865
+2022,Karnataka,2 Wheeler,CNG,0
+2022,Karnataka,2 Wheeler,Diesel & Others,0
+2022,Karnataka,2 Wheeler,Electric Vehicle,102984
+2022,Karnataka,2 Wheeler,Others,0
+2022,Karnataka,2 Wheeler,Petrol & Others,1022883
+2023,Karnataka,2 Wheeler,CNG,0
+2023,Karnataka,2 Wheeler,Diesel & Others,0
+2023,Karnataka,2 Wheeler,Electric Vehicle,113870
+2023,Karnataka,2 Wheeler,Others,0
+2023,Karnataka,2 Wheeler,Petrol & Others,941342
+2013,Karnataka,3 Wheeler,CNG,10
+2013,Karnataka,3 Wheeler,Diesel & Others,18431
+2013,Karnataka,3 Wheeler,Electric Vehicle,15
+2013,Karnataka,3 Wheeler,Others,670
+2013,Karnataka,3 Wheeler,Petrol & Others,18233
+2014,Karnataka,3 Wheeler,CNG,11
+2014,Karnataka,3 Wheeler,Diesel & Others,19557
+2014,Karnataka,3 Wheeler,Electric Vehicle,6
+2014,Karnataka,3 Wheeler,Others,825
+2014,Karnataka,3 Wheeler,Petrol & Others,18943
+2015,Karnataka,3 Wheeler,CNG,8
+2015,Karnataka,3 Wheeler,Diesel & Others,18377
+2015,Karnataka,3 Wheeler,Electric Vehicle,65
+2015,Karnataka,3 Wheeler,Others,1365
+2015,Karnataka,3 Wheeler,Petrol & Others,21474
+2016,Karnataka,3 Wheeler,CNG,7
+2016,Karnataka,3 Wheeler,Diesel & Others,17398
+2016,Karnataka,3 Wheeler,Electric Vehicle,83
+2016,Karnataka,3 Wheeler,Others,1512
+2016,Karnataka,3 Wheeler,Petrol & Others,20786
+2017,Karnataka,3 Wheeler,CNG,13
+2017,Karnataka,3 Wheeler,Diesel & Others,14032
+2017,Karnataka,3 Wheeler,Electric Vehicle,180
+2017,Karnataka,3 Wheeler,Others,1191
+2017,Karnataka,3 Wheeler,Petrol & Others,23648
+2018,Karnataka,3 Wheeler,CNG,14
+2018,Karnataka,3 Wheeler,Diesel & Others,17084
+2018,Karnataka,3 Wheeler,Electric Vehicle,225
+2018,Karnataka,3 Wheeler,Others,85
+2018,Karnataka,3 Wheeler,Petrol & Others,36632
+2019,Karnataka,3 Wheeler,CNG,133
+2019,Karnataka,3 Wheeler,Diesel & Others,17235
+2019,Karnataka,3 Wheeler,Electric Vehicle,223
+2019,Karnataka,3 Wheeler,Others,581
+2019,Karnataka,3 Wheeler,Petrol & Others,33379
+2020,Karnataka,3 Wheeler,CNG,302
+2020,Karnataka,3 Wheeler,Diesel & Others,6868
+2020,Karnataka,3 Wheeler,Electric Vehicle,429
+2020,Karnataka,3 Wheeler,Others,3345
+2020,Karnataka,3 Wheeler,Petrol & Others,3298
+2021,Karnataka,3 Wheeler,CNG,3456
+2021,Karnataka,3 Wheeler,Diesel & Others,5844
+2021,Karnataka,3 Wheeler,Electric Vehicle,2939
+2021,Karnataka,3 Wheeler,Others,4623
+2021,Karnataka,3 Wheeler,Petrol & Others,2121
+2022,Karnataka,3 Wheeler,CNG,20306
+2022,Karnataka,3 Wheeler,Diesel & Others,7336
+2022,Karnataka,3 Wheeler,Electric Vehicle,4728
+2022,Karnataka,3 Wheeler,Others,3270
+2022,Karnataka,3 Wheeler,Petrol & Others,2884
+2023,Karnataka,3 Wheeler,CNG,34373
+2023,Karnataka,3 Wheeler,Diesel & Others,7006
+2023,Karnataka,3 Wheeler,Electric Vehicle,4480
+2023,Karnataka,3 Wheeler,Others,4550
+2023,Karnataka,3 Wheeler,Petrol & Others,530
+2013,Karnataka,HGV,CNG,0
+2013,Karnataka,HGV,Diesel & Others,12913
+2013,Karnataka,HGV,Electric Vehicle,0
+2013,Karnataka,HGV,Others,24
+2013,Karnataka,HGV,Petrol & Others,8
+2014,Karnataka,HGV,CNG,0
+2014,Karnataka,HGV,Diesel & Others,14057
+2014,Karnataka,HGV,Electric Vehicle,0
+2014,Karnataka,HGV,Others,16
+2014,Karnataka,HGV,Petrol & Others,8
+2015,Karnataka,HGV,CNG,0
+2015,Karnataka,HGV,Diesel & Others,16806
+2015,Karnataka,HGV,Electric Vehicle,0
+2015,Karnataka,HGV,Others,30
+2015,Karnataka,HGV,Petrol & Others,19
+2016,Karnataka,HGV,CNG,1
+2016,Karnataka,HGV,Diesel & Others,17890
+2016,Karnataka,HGV,Electric Vehicle,0
+2016,Karnataka,HGV,Others,15
+2016,Karnataka,HGV,Petrol & Others,24
+2017,Karnataka,HGV,CNG,1
+2017,Karnataka,HGV,Diesel & Others,15223
+2017,Karnataka,HGV,Electric Vehicle,0
+2017,Karnataka,HGV,Others,7
+2017,Karnataka,HGV,Petrol & Others,3
+2018,Karnataka,HGV,CNG,0
+2018,Karnataka,HGV,Diesel & Others,19083
+2018,Karnataka,HGV,Electric Vehicle,0
+2018,Karnataka,HGV,Others,24
+2018,Karnataka,HGV,Petrol & Others,30
+2019,Karnataka,HGV,CNG,1
+2019,Karnataka,HGV,Diesel & Others,13561
+2019,Karnataka,HGV,Electric Vehicle,0
+2019,Karnataka,HGV,Others,40
+2019,Karnataka,HGV,Petrol & Others,0
+2020,Karnataka,HGV,CNG,5
+2020,Karnataka,HGV,Diesel & Others,4923
+2020,Karnataka,HGV,Electric Vehicle,0
+2020,Karnataka,HGV,Others,114
+2020,Karnataka,HGV,Petrol & Others,0
+2021,Karnataka,HGV,CNG,242
+2021,Karnataka,HGV,Diesel & Others,10215
+2021,Karnataka,HGV,Electric Vehicle,0
+2021,Karnataka,HGV,Others,255
+2021,Karnataka,HGV,Petrol & Others,0
+2022,Karnataka,HGV,CNG,248
+2022,Karnataka,HGV,Diesel & Others,16261
+2022,Karnataka,HGV,Electric Vehicle,0
+2022,Karnataka,HGV,Others,405
+2022,Karnataka,HGV,Petrol & Others,0
+2023,Karnataka,HGV,CNG,149
+2023,Karnataka,HGV,Diesel & Others,13356
+2023,Karnataka,HGV,Electric Vehicle,3
+2023,Karnataka,HGV,Others,209
+2023,Karnataka,HGV,Petrol & Others,0
+2013,Karnataka,HMV,CNG,0
+2013,Karnataka,HMV,Diesel & Others,154
+2013,Karnataka,HMV,Electric Vehicle,0
+2013,Karnataka,HMV,Others,1
+2013,Karnataka,HMV,Petrol & Others,0
+2014,Karnataka,HMV,CNG,0
+2014,Karnataka,HMV,Diesel & Others,82
+2014,Karnataka,HMV,Electric Vehicle,0
+2014,Karnataka,HMV,Others,0
+2014,Karnataka,HMV,Petrol & Others,0
+2015,Karnataka,HMV,CNG,0
+2015,Karnataka,HMV,Diesel & Others,137
+2015,Karnataka,HMV,Electric Vehicle,0
+2015,Karnataka,HMV,Others,1
+2015,Karnataka,HMV,Petrol & Others,0
+2016,Karnataka,HMV,CNG,0
+2016,Karnataka,HMV,Diesel & Others,284
+2016,Karnataka,HMV,Electric Vehicle,0
+2016,Karnataka,HMV,Others,0
+2016,Karnataka,HMV,Petrol & Others,0
+2017,Karnataka,HMV,CNG,0
+2017,Karnataka,HMV,Diesel & Others,112
+2017,Karnataka,HMV,Electric Vehicle,0
+2017,Karnataka,HMV,Others,1
+2017,Karnataka,HMV,Petrol & Others,1
+2018,Karnataka,HMV,CNG,0
+2018,Karnataka,HMV,Diesel & Others,335
+2018,Karnataka,HMV,Electric Vehicle,0
+2018,Karnataka,HMV,Others,1
+2018,Karnataka,HMV,Petrol & Others,0
+2019,Karnataka,HMV,CNG,0
+2019,Karnataka,HMV,Diesel & Others,934
+2019,Karnataka,HMV,Electric Vehicle,0
+2019,Karnataka,HMV,Others,3
+2019,Karnataka,HMV,Petrol & Others,0
+2020,Karnataka,HMV,CNG,0
+2020,Karnataka,HMV,Diesel & Others,179
+2020,Karnataka,HMV,Electric Vehicle,0
+2020,Karnataka,HMV,Others,0
+2020,Karnataka,HMV,Petrol & Others,0
+2021,Karnataka,HMV,CNG,0
+2021,Karnataka,HMV,Diesel & Others,171
+2021,Karnataka,HMV,Electric Vehicle,0
+2021,Karnataka,HMV,Others,3
+2021,Karnataka,HMV,Petrol & Others,0
+2022,Karnataka,HMV,CNG,0
+2022,Karnataka,HMV,Diesel & Others,129
+2022,Karnataka,HMV,Electric Vehicle,0
+2022,Karnataka,HMV,Others,6
+2022,Karnataka,HMV,Petrol & Others,0
+2023,Karnataka,HMV,CNG,0
+2023,Karnataka,HMV,Diesel & Others,36
+2023,Karnataka,HMV,Electric Vehicle,0
+2023,Karnataka,HMV,Others,3
+2023,Karnataka,HMV,Petrol & Others,0
+2013,Karnataka,HPV,CNG,1
+2013,Karnataka,HPV,Diesel & Others,4242
+2013,Karnataka,HPV,Electric Vehicle,1
+2013,Karnataka,HPV,Others,0
+2013,Karnataka,HPV,Petrol & Others,8
+2014,Karnataka,HPV,CNG,0
+2014,Karnataka,HPV,Diesel & Others,2499
+2014,Karnataka,HPV,Electric Vehicle,0
+2014,Karnataka,HPV,Others,1
+2014,Karnataka,HPV,Petrol & Others,4
+2015,Karnataka,HPV,CNG,0
+2015,Karnataka,HPV,Diesel & Others,2480
+2015,Karnataka,HPV,Electric Vehicle,0
+2015,Karnataka,HPV,Others,0
+2015,Karnataka,HPV,Petrol & Others,1
+2016,Karnataka,HPV,CNG,0
+2016,Karnataka,HPV,Diesel & Others,3433
+2016,Karnataka,HPV,Electric Vehicle,0
+2016,Karnataka,HPV,Others,2
+2016,Karnataka,HPV,Petrol & Others,5
+2017,Karnataka,HPV,CNG,2
+2017,Karnataka,HPV,Diesel & Others,5398
+2017,Karnataka,HPV,Electric Vehicle,0
+2017,Karnataka,HPV,Others,22
+2017,Karnataka,HPV,Petrol & Others,3
+2018,Karnataka,HPV,CNG,0
+2018,Karnataka,HPV,Diesel & Others,2553
+2018,Karnataka,HPV,Electric Vehicle,0
+2018,Karnataka,HPV,Others,4
+2018,Karnataka,HPV,Petrol & Others,16
+2019,Karnataka,HPV,CNG,0
+2019,Karnataka,HPV,Diesel & Others,2417
+2019,Karnataka,HPV,Electric Vehicle,0
+2019,Karnataka,HPV,Others,0
+2019,Karnataka,HPV,Petrol & Others,0
+2020,Karnataka,HPV,CNG,0
+2020,Karnataka,HPV,Diesel & Others,191
+2020,Karnataka,HPV,Electric Vehicle,2
+2020,Karnataka,HPV,Others,0
+2020,Karnataka,HPV,Petrol & Others,2
+2021,Karnataka,HPV,CNG,0
+2021,Karnataka,HPV,Diesel & Others,644
+2021,Karnataka,HPV,Electric Vehicle,90
+2021,Karnataka,HPV,Others,0
+2021,Karnataka,HPV,Petrol & Others,0
+2022,Karnataka,HPV,CNG,0
+2022,Karnataka,HPV,Diesel & Others,535
+2022,Karnataka,HPV,Electric Vehicle,405
+2022,Karnataka,HPV,Others,0
+2022,Karnataka,HPV,Petrol & Others,0
+2023,Karnataka,HPV,CNG,0
+2023,Karnataka,HPV,Diesel & Others,1312
+2023,Karnataka,HPV,Electric Vehicle,266
+2023,Karnataka,HPV,Others,0
+2023,Karnataka,HPV,Petrol & Others,1
+2013,Karnataka,LGV,CNG,1
+2013,Karnataka,LGV,Diesel & Others,34955
+2013,Karnataka,LGV,Electric Vehicle,0
+2013,Karnataka,LGV,Others,1100
+2013,Karnataka,LGV,Petrol & Others,383
+2014,Karnataka,LGV,CNG,1
+2014,Karnataka,LGV,Diesel & Others,34543
+2014,Karnataka,LGV,Electric Vehicle,3
+2014,Karnataka,LGV,Others,1090
+2014,Karnataka,LGV,Petrol & Others,553
+2015,Karnataka,LGV,CNG,2
+2015,Karnataka,LGV,Diesel & Others,34160
+2015,Karnataka,LGV,Electric Vehicle,3
+2015,Karnataka,LGV,Others,554
+2015,Karnataka,LGV,Petrol & Others,691
+2016,Karnataka,LGV,CNG,0
+2016,Karnataka,LGV,Diesel & Others,30134
+2016,Karnataka,LGV,Electric Vehicle,3
+2016,Karnataka,LGV,Others,489
+2016,Karnataka,LGV,Petrol & Others,410
+2017,Karnataka,LGV,CNG,7
+2017,Karnataka,LGV,Diesel & Others,34251
+2017,Karnataka,LGV,Electric Vehicle,3
+2017,Karnataka,LGV,Others,316
+2017,Karnataka,LGV,Petrol & Others,355
+2018,Karnataka,LGV,CNG,2
+2018,Karnataka,LGV,Diesel & Others,43060
+2018,Karnataka,LGV,Electric Vehicle,0
+2018,Karnataka,LGV,Others,305
+2018,Karnataka,LGV,Petrol & Others,189
+2019,Karnataka,LGV,CNG,5
+2019,Karnataka,LGV,Diesel & Others,41768
+2019,Karnataka,LGV,Electric Vehicle,17
+2019,Karnataka,LGV,Others,305
+2019,Karnataka,LGV,Petrol & Others,309
+2020,Karnataka,LGV,CNG,95
+2020,Karnataka,LGV,Diesel & Others,22422
+2020,Karnataka,LGV,Electric Vehicle,6
+2020,Karnataka,LGV,Others,316
+2020,Karnataka,LGV,Petrol & Others,2938
+2021,Karnataka,LGV,CNG,1531
+2021,Karnataka,LGV,Diesel & Others,25912
+2021,Karnataka,LGV,Electric Vehicle,28
+2021,Karnataka,LGV,Others,415
+2021,Karnataka,LGV,Petrol & Others,6036
+2022,Karnataka,LGV,CNG,1540
+2022,Karnataka,LGV,Diesel & Others,42070
+2022,Karnataka,LGV,Electric Vehicle,4
+2022,Karnataka,LGV,Others,504
+2022,Karnataka,LGV,Petrol & Others,4016
+2023,Karnataka,LGV,CNG,1268
+2023,Karnataka,LGV,Diesel & Others,37436
+2023,Karnataka,LGV,Electric Vehicle,245
+2023,Karnataka,LGV,Others,545
+2023,Karnataka,LGV,Petrol & Others,2239
+2013,Karnataka,LMV,CNG,1
+2013,Karnataka,LMV,Diesel & Others,123352
+2013,Karnataka,LMV,Electric Vehicle,270
+2013,Karnataka,LMV,Others,16800
+2013,Karnataka,LMV,Petrol & Others,80373
+2014,Karnataka,LMV,CNG,2
+2014,Karnataka,LMV,Diesel & Others,123633
+2014,Karnataka,LMV,Electric Vehicle,433
+2014,Karnataka,LMV,Others,17792
+2014,Karnataka,LMV,Petrol & Others,98745
+2015,Karnataka,LMV,CNG,1
+2015,Karnataka,LMV,Diesel & Others,117979
+2015,Karnataka,LMV,Electric Vehicle,422
+2015,Karnataka,LMV,Others,10694
+2015,Karnataka,LMV,Petrol & Others,114203
+2016,Karnataka,LMV,CNG,1
+2016,Karnataka,LMV,Diesel & Others,119283
+2016,Karnataka,LMV,Electric Vehicle,398
+2016,Karnataka,LMV,Others,10015
+2016,Karnataka,LMV,Petrol & Others,126564
+2017,Karnataka,LMV,CNG,0
+2017,Karnataka,LMV,Diesel & Others,116935
+2017,Karnataka,LMV,Electric Vehicle,318
+2017,Karnataka,LMV,Others,8516
+2017,Karnataka,LMV,Petrol & Others,130180
+2018,Karnataka,LMV,CNG,3
+2018,Karnataka,LMV,Diesel & Others,114794
+2018,Karnataka,LMV,Electric Vehicle,348
+2018,Karnataka,LMV,Others,9879
+2018,Karnataka,LMV,Petrol & Others,128112
+2019,Karnataka,LMV,CNG,9
+2019,Karnataka,LMV,Diesel & Others,96418
+2019,Karnataka,LMV,Electric Vehicle,174
+2019,Karnataka,LMV,Others,12423
+2019,Karnataka,LMV,Petrol & Others,123056
+2020,Karnataka,LMV,CNG,3
+2020,Karnataka,LMV,Diesel & Others,76538
+2020,Karnataka,LMV,Electric Vehicle,692
+2020,Karnataka,LMV,Others,14918
+2020,Karnataka,LMV,Petrol & Others,149635
+2021,Karnataka,LMV,CNG,2
+2021,Karnataka,LMV,Diesel & Others,88328
+2021,Karnataka,LMV,Electric Vehicle,1706
+2021,Karnataka,LMV,Others,15764
+2021,Karnataka,LMV,Petrol & Others,158462
+2022,Karnataka,LMV,CNG,13
+2022,Karnataka,LMV,Diesel & Others,112093
+2022,Karnataka,LMV,Electric Vehicle,4493
+2022,Karnataka,LMV,Others,15872
+2022,Karnataka,LMV,Petrol & Others,209885
+2023,Karnataka,LMV,CNG,14
+2023,Karnataka,LMV,Diesel & Others,82050
+2023,Karnataka,LMV,Electric Vehicle,8391
+2023,Karnataka,LMV,Others,11055
+2023,Karnataka,LMV,Petrol & Others,183826
+2013,Karnataka,LPV,CNG,0
+2013,Karnataka,LPV,Diesel & Others,20667
+2013,Karnataka,LPV,Electric Vehicle,10
+2013,Karnataka,LPV,Others,8
+2013,Karnataka,LPV,Petrol & Others,493
+2014,Karnataka,LPV,CNG,0
+2014,Karnataka,LPV,Diesel & Others,24395
+2014,Karnataka,LPV,Electric Vehicle,5
+2014,Karnataka,LPV,Others,14
+2014,Karnataka,LPV,Petrol & Others,861
+2015,Karnataka,LPV,CNG,2
+2015,Karnataka,LPV,Diesel & Others,41491
+2015,Karnataka,LPV,Electric Vehicle,116
+2015,Karnataka,LPV,Others,15
+2015,Karnataka,LPV,Petrol & Others,973
+2016,Karnataka,LPV,CNG,0
+2016,Karnataka,LPV,Diesel & Others,42786
+2016,Karnataka,LPV,Electric Vehicle,82
+2016,Karnataka,LPV,Others,13
+2016,Karnataka,LPV,Petrol & Others,939
+2017,Karnataka,LPV,CNG,0
+2017,Karnataka,LPV,Diesel & Others,24945
+2017,Karnataka,LPV,Electric Vehicle,152
+2017,Karnataka,LPV,Others,9
+2017,Karnataka,LPV,Petrol & Others,1065
+2018,Karnataka,LPV,CNG,3
+2018,Karnataka,LPV,Diesel & Others,27001
+2018,Karnataka,LPV,Electric Vehicle,287
+2018,Karnataka,LPV,Others,5
+2018,Karnataka,LPV,Petrol & Others,1418
+2019,Karnataka,LPV,CNG,141
+2019,Karnataka,LPV,Diesel & Others,24729
+2019,Karnataka,LPV,Electric Vehicle,367
+2019,Karnataka,LPV,Others,107
+2019,Karnataka,LPV,Petrol & Others,2178
+2020,Karnataka,LPV,CNG,4
+2020,Karnataka,LPV,Diesel & Others,1337
+2020,Karnataka,LPV,Electric Vehicle,87
+2020,Karnataka,LPV,Others,21
+2020,Karnataka,LPV,Petrol & Others,3721
+2021,Karnataka,LPV,CNG,5
+2021,Karnataka,LPV,Diesel & Others,1608
+2021,Karnataka,LPV,Electric Vehicle,122
+2021,Karnataka,LPV,Others,15
+2021,Karnataka,LPV,Petrol & Others,4279
+2022,Karnataka,LPV,CNG,342
+2022,Karnataka,LPV,Diesel & Others,5041
+2022,Karnataka,LPV,Electric Vehicle,1432
+2022,Karnataka,LPV,Others,8
+2022,Karnataka,LPV,Petrol & Others,13325
+2023,Karnataka,LPV,CNG,454
+2023,Karnataka,LPV,Diesel & Others,6750
+2023,Karnataka,LPV,Electric Vehicle,2370
+2023,Karnataka,LPV,Others,3
+2023,Karnataka,LPV,Petrol & Others,20506
+2013,Karnataka,MGV,CNG,0
+2013,Karnataka,MGV,Diesel & Others,3537
+2013,Karnataka,MGV,Electric Vehicle,0
+2013,Karnataka,MGV,Others,36
+2013,Karnataka,MGV,Petrol & Others,4
+2014,Karnataka,MGV,CNG,0
+2014,Karnataka,MGV,Diesel & Others,3366
+2014,Karnataka,MGV,Electric Vehicle,0
+2014,Karnataka,MGV,Others,30
+2014,Karnataka,MGV,Petrol & Others,6
+2015,Karnataka,MGV,CNG,0
+2015,Karnataka,MGV,Diesel & Others,3221
+2015,Karnataka,MGV,Electric Vehicle,1
+2015,Karnataka,MGV,Others,9
+2015,Karnataka,MGV,Petrol & Others,6
+2016,Karnataka,MGV,CNG,0
+2016,Karnataka,MGV,Diesel & Others,3758
+2016,Karnataka,MGV,Electric Vehicle,0
+2016,Karnataka,MGV,Others,10
+2016,Karnataka,MGV,Petrol & Others,4
+2017,Karnataka,MGV,CNG,0
+2017,Karnataka,MGV,Diesel & Others,3402
+2017,Karnataka,MGV,Electric Vehicle,0
+2017,Karnataka,MGV,Others,9
+2017,Karnataka,MGV,Petrol & Others,5
+2018,Karnataka,MGV,CNG,3
+2018,Karnataka,MGV,Diesel & Others,4587
+2018,Karnataka,MGV,Electric Vehicle,0
+2018,Karnataka,MGV,Others,8
+2018,Karnataka,MGV,Petrol & Others,2
+2019,Karnataka,MGV,CNG,28
+2019,Karnataka,MGV,Diesel & Others,3863
+2019,Karnataka,MGV,Electric Vehicle,0
+2019,Karnataka,MGV,Others,1
+2019,Karnataka,MGV,Petrol & Others,0
+2020,Karnataka,MGV,CNG,17
+2020,Karnataka,MGV,Diesel & Others,1983
+2020,Karnataka,MGV,Electric Vehicle,0
+2020,Karnataka,MGV,Others,6
+2020,Karnataka,MGV,Petrol & Others,0
+2021,Karnataka,MGV,CNG,660
+2021,Karnataka,MGV,Diesel & Others,2890
+2021,Karnataka,MGV,Electric Vehicle,0
+2021,Karnataka,MGV,Others,3
+2021,Karnataka,MGV,Petrol & Others,0
+2022,Karnataka,MGV,CNG,265
+2022,Karnataka,MGV,Diesel & Others,4135
+2022,Karnataka,MGV,Electric Vehicle,0
+2022,Karnataka,MGV,Others,5
+2022,Karnataka,MGV,Petrol & Others,0
+2023,Karnataka,MGV,CNG,55
+2023,Karnataka,MGV,Diesel & Others,3387
+2023,Karnataka,MGV,Electric Vehicle,0
+2023,Karnataka,MGV,Others,6
+2023,Karnataka,MGV,Petrol & Others,0
+2013,Karnataka,MMV,CNG,0
+2013,Karnataka,MMV,Diesel & Others,180
+2013,Karnataka,MMV,Electric Vehicle,0
+2013,Karnataka,MMV,Others,18
+2013,Karnataka,MMV,Petrol & Others,1
+2014,Karnataka,MMV,CNG,0
+2014,Karnataka,MMV,Diesel & Others,177
+2014,Karnataka,MMV,Electric Vehicle,0
+2014,Karnataka,MMV,Others,16
+2014,Karnataka,MMV,Petrol & Others,1
+2015,Karnataka,MMV,CNG,0
+2015,Karnataka,MMV,Diesel & Others,271
+2015,Karnataka,MMV,Electric Vehicle,0
+2015,Karnataka,MMV,Others,12
+2015,Karnataka,MMV,Petrol & Others,3
+2016,Karnataka,MMV,CNG,0
+2016,Karnataka,MMV,Diesel & Others,346
+2016,Karnataka,MMV,Electric Vehicle,0
+2016,Karnataka,MMV,Others,12
+2016,Karnataka,MMV,Petrol & Others,0
+2017,Karnataka,MMV,CNG,0
+2017,Karnataka,MMV,Diesel & Others,280
+2017,Karnataka,MMV,Electric Vehicle,0
+2017,Karnataka,MMV,Others,0
+2017,Karnataka,MMV,Petrol & Others,1
+2018,Karnataka,MMV,CNG,0
+2018,Karnataka,MMV,Diesel & Others,1277
+2018,Karnataka,MMV,Electric Vehicle,0
+2018,Karnataka,MMV,Others,17
+2018,Karnataka,MMV,Petrol & Others,1
+2019,Karnataka,MMV,CNG,0
+2019,Karnataka,MMV,Diesel & Others,1934
+2019,Karnataka,MMV,Electric Vehicle,0
+2019,Karnataka,MMV,Others,10
+2019,Karnataka,MMV,Petrol & Others,0
+2020,Karnataka,MMV,CNG,0
+2020,Karnataka,MMV,Diesel & Others,1413
+2020,Karnataka,MMV,Electric Vehicle,0
+2020,Karnataka,MMV,Others,42
+2020,Karnataka,MMV,Petrol & Others,0
+2021,Karnataka,MMV,CNG,0
+2021,Karnataka,MMV,Diesel & Others,602
+2021,Karnataka,MMV,Electric Vehicle,0
+2021,Karnataka,MMV,Others,30
+2021,Karnataka,MMV,Petrol & Others,0
+2022,Karnataka,MMV,CNG,0
+2022,Karnataka,MMV,Diesel & Others,321
+2022,Karnataka,MMV,Electric Vehicle,0
+2022,Karnataka,MMV,Others,99
+2022,Karnataka,MMV,Petrol & Others,0
+2023,Karnataka,MMV,CNG,0
+2023,Karnataka,MMV,Diesel & Others,180
+2023,Karnataka,MMV,Electric Vehicle,0
+2023,Karnataka,MMV,Others,33
+2023,Karnataka,MMV,Petrol & Others,0
+2013,Karnataka,MPV,CNG,0
+2013,Karnataka,MPV,Diesel & Others,1129
+2013,Karnataka,MPV,Electric Vehicle,0
+2013,Karnataka,MPV,Others,0
+2013,Karnataka,MPV,Petrol & Others,2
+2014,Karnataka,MPV,CNG,0
+2014,Karnataka,MPV,Diesel & Others,1264
+2014,Karnataka,MPV,Electric Vehicle,0
+2014,Karnataka,MPV,Others,0
+2014,Karnataka,MPV,Petrol & Others,3
+2015,Karnataka,MPV,CNG,0
+2015,Karnataka,MPV,Diesel & Others,1433
+2015,Karnataka,MPV,Electric Vehicle,0
+2015,Karnataka,MPV,Others,0
+2015,Karnataka,MPV,Petrol & Others,1
+2016,Karnataka,MPV,CNG,0
+2016,Karnataka,MPV,Diesel & Others,1841
+2016,Karnataka,MPV,Electric Vehicle,0
+2016,Karnataka,MPV,Others,0
+2016,Karnataka,MPV,Petrol & Others,2
+2017,Karnataka,MPV,CNG,0
+2017,Karnataka,MPV,Diesel & Others,1698
+2017,Karnataka,MPV,Electric Vehicle,0
+2017,Karnataka,MPV,Others,1
+2017,Karnataka,MPV,Petrol & Others,0
+2018,Karnataka,MPV,CNG,1
+2018,Karnataka,MPV,Diesel & Others,1423
+2018,Karnataka,MPV,Electric Vehicle,0
+2018,Karnataka,MPV,Others,0
+2018,Karnataka,MPV,Petrol & Others,2
+2019,Karnataka,MPV,CNG,0
+2019,Karnataka,MPV,Diesel & Others,2466
+2019,Karnataka,MPV,Electric Vehicle,0
+2019,Karnataka,MPV,Others,0
+2019,Karnataka,MPV,Petrol & Others,1
+2020,Karnataka,MPV,CNG,0
+2020,Karnataka,MPV,Diesel & Others,267
+2020,Karnataka,MPV,Electric Vehicle,0
+2020,Karnataka,MPV,Others,0
+2020,Karnataka,MPV,Petrol & Others,1
+2021,Karnataka,MPV,CNG,101
+2021,Karnataka,MPV,Diesel & Others,398
+2021,Karnataka,MPV,Electric Vehicle,0
+2021,Karnataka,MPV,Others,0
+2021,Karnataka,MPV,Petrol & Others,0
+2022,Karnataka,MPV,CNG,138
+2022,Karnataka,MPV,Diesel & Others,2141
+2022,Karnataka,MPV,Electric Vehicle,0
+2022,Karnataka,MPV,Others,0
+2022,Karnataka,MPV,Petrol & Others,0
+2023,Karnataka,MPV,CNG,48
+2023,Karnataka,MPV,Diesel & Others,2872
+2023,Karnataka,MPV,Electric Vehicle,0
+2023,Karnataka,MPV,Others,0
+2023,Karnataka,MPV,Petrol & Others,0
+2013,Karnataka,Others,CNG,0
+2013,Karnataka,Others,Diesel & Others,1148
+2013,Karnataka,Others,Electric Vehicle,0
+2013,Karnataka,Others,Others,252
+2013,Karnataka,Others,Petrol & Others,23
+2014,Karnataka,Others,CNG,0
+2014,Karnataka,Others,Diesel & Others,1022
+2014,Karnataka,Others,Electric Vehicle,0
+2014,Karnataka,Others,Others,237
+2014,Karnataka,Others,Petrol & Others,21
+2015,Karnataka,Others,CNG,0
+2015,Karnataka,Others,Diesel & Others,1153
+2015,Karnataka,Others,Electric Vehicle,0
+2015,Karnataka,Others,Others,131
+2015,Karnataka,Others,Petrol & Others,35
+2016,Karnataka,Others,CNG,0
+2016,Karnataka,Others,Diesel & Others,1622
+2016,Karnataka,Others,Electric Vehicle,1
+2016,Karnataka,Others,Others,113
+2016,Karnataka,Others,Petrol & Others,52
+2017,Karnataka,Others,CNG,0
+2017,Karnataka,Others,Diesel & Others,1521
+2017,Karnataka,Others,Electric Vehicle,0
+2017,Karnataka,Others,Others,124
+2017,Karnataka,Others,Petrol & Others,90
+2018,Karnataka,Others,CNG,0
+2018,Karnataka,Others,Diesel & Others,1710
+2018,Karnataka,Others,Electric Vehicle,0
+2018,Karnataka,Others,Others,7
+2018,Karnataka,Others,Petrol & Others,119
+2019,Karnataka,Others,CNG,0
+2019,Karnataka,Others,Diesel & Others,2385
+2019,Karnataka,Others,Electric Vehicle,0
+2019,Karnataka,Others,Others,3
+2019,Karnataka,Others,Petrol & Others,150
+2020,Karnataka,Others,CNG,0
+2020,Karnataka,Others,Diesel & Others,3029
+2020,Karnataka,Others,Electric Vehicle,0
+2020,Karnataka,Others,Others,6
+2020,Karnataka,Others,Petrol & Others,172
+2021,Karnataka,Others,CNG,1
+2021,Karnataka,Others,Diesel & Others,3202
+2021,Karnataka,Others,Electric Vehicle,0
+2021,Karnataka,Others,Others,12
+2021,Karnataka,Others,Petrol & Others,203
+2022,Karnataka,Others,CNG,0
+2022,Karnataka,Others,Diesel & Others,5047
+2022,Karnataka,Others,Electric Vehicle,2
+2022,Karnataka,Others,Others,8
+2022,Karnataka,Others,Petrol & Others,258
+2023,Karnataka,Others,CNG,0
+2023,Karnataka,Others,Diesel & Others,4852
+2023,Karnataka,Others,Electric Vehicle,5
+2023,Karnataka,Others,Others,8
+2023,Karnataka,Others,Petrol & Others,292
