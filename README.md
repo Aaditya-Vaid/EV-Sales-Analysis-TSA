@@ -1,4 +1,4 @@
-# EV-Sales-Analysis-TSA
+# EV Sales Analysis
 This is my first Analytics project, so I think some of the things I did are not upto the level. By doing this project I get to know how to work with SARIMA models, and I hope to use the knowledge from this project in my future projects. 
 
 I collected the data from https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml and used SARIMA architecture to train a model which forecasts the number of registrations of EV in India in year 2023. 
